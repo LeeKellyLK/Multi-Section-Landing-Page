@@ -1,0 +1,1 @@
+This is just one project for the Multi Section Landing page Project for UDACITY
